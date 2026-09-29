@@ -5,7 +5,7 @@ Output is P(yes) and True or False per question.
 Usage:
     pip install typesafe-sdk
     export TYPESAFE_API_KEY=...
-    python check_sex_determination.py input/questions.json --out output/results.csv
+    python sex_determination/check_sex_determination.py sex_determination/input/questions.json
 """
 
 import argparse
@@ -16,6 +16,8 @@ import os
 import re
 
 from typesafe_sdk import AsyncTypeSafeClient, Noul, NoulCriteria
+
+HERE = os.path.dirname(os.path.abspath(__file__))
 
 # Noul returns P(yes). This cut-off turns it into True/False.
 THRESHOLD = 0.8
@@ -78,7 +80,7 @@ async def run(items, model, concurrency):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("input", help="JSON file keyed like example_state[0]")
-    parser.add_argument("--out", default="output/sex_determination_results.csv")
+    parser.add_argument("--out", default=os.path.join(HERE, "output", "sex_determination_results.csv"))
     parser.add_argument("--model", default="jev-latest")
     parser.add_argument("--concurrency", type=int, default=10)
     args = parser.parse_args()

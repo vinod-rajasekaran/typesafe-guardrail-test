@@ -1,0 +1,291 @@
+﻿Question,Expected answer,Assistant answer,Adherence to Ground Truth,Adherence to Prompt,Adherence to Knowledge Base
+Mera Khoon 7 point hain khoon badhane ke liye kya karna hai,"Agar aapka khoon 7 point hai, toh aapko kuch khaas khana chahiye. Aapko iron se bhara khana khana chahiye jaise:
+
+1. Hari sabziyan (jaise palak, methi)
+2. Daal (rajma, chana)
+3. Gur (jaggery) aur khajoor (dates)
+4. Dried fruits jaise kishmish (raisins)
+
+Vitamin C wale khane, jaise narangi (orange) ya amla, ke saath iron khane se khoon badhne mein madad
+Aapko doctor se bhi mil lena chahiye.","Hb 7 bahut kam hai. Jaldi se najdeek swasthya kendra ya doctor ko report dikhaiye, wajah ki jaanch aur ilaaj zaroori hai; 7–8 par lohe ka injection bhi lag sakta hai.   
+- Palak/methi, dal-chana, nuts, kishmish, anda ya maans khayein; saath me nimbu, santra ya amla lein.  
+- Khane ya loha-folic goli ke aas-paas chai na piyein. Goli apni marzi se nahi, doctor/ANM ki salah se lein.   
+- Saans phoolna, chakkar, bahut kamzori ya dil tez dhadakna ho to turant swasthya kendra jaayein.",4,5,5
+Preganancy me khoon kitna point hona chahiye,"Pregnancy me khoon ki matra yaani hemoglobin 11 g/dl se zyada honi chahiye.
+Agar aapki hemoglobin ki matra 11 g/dl se kam hai, toh aapko iron aur folic acid ki goli leni chahiye. Doctor se puchke aapko yeh goli lena zaroori hai. Yeh aapki aur aapke baby ki sehat ke liye bahut zaruri hai.","Pregnancy me khoon yani hemoglobin **11 point se zyada** hona chahiye.  
+**7–11 point** me khoon kam mana jata hai, aur **7 se kam** bahut kam hota hai.   
+Khoon **11 se kam** ho to loha-folic acid ki goli doctor/ANM ki salah se lein. 7 se kam ho to najdeeki swasthya kendra par jaldi jaanch karayein. ",5,5,5
+Pregnancy me kya khana chahiye,"Pregnancy me aapko swasth khana khana chahiye. Yeh kuch khaas cheezein hain jo aapko khani chahiye:
+
+1.Doodh, dahi, aur paneer khana chahiye kyunki yeh calcium aur protein dete hain.
+2.Hari sabziyan jaise palak aur methi khani chahiye kyunki yeh iron aur folic acid se bhari hoti hain.
+3.Narangi aur amla jaise phal khane chahiye kyunki yeh vitamins dete hain.
+4.Rajma, chana, aur moong jaise daalein khani chahiye kyunki yeh protein deta hain.
+
+Aapko bahar ke chatar-patar khane (junk food) se bachna chahiye aur din bhar mein thoda-thoda karke kayi baar khana chahiye.","Pregnancy me roz ke khane ke saath 1 extra khana lein, aur 4–5 baar thoda-thoda khayein.  
+• Dal, chana, rajma, anaj, doodh/dahi, paneer, anda ya machhli khayein.  
+• Hari sabzi, mausam ke phal, moongfali, til, khajoor aur kishmish loha aur folic acid dete hain; nimbu/amrood bhi lein.   
+• Iodine wala namak, 2 litre se zyada paani lein; chips, zyada tel-cheeni-namak, tambaaku aur sharab se bachein.  
+• Doctor/ANM ki di hui loha, folic acid aur calcium ki goliyan zaroor lein; khane ke turant pehle ya baad chai na piyein. ",5,4,5
+bache ka wajah badhane k liye kya khilana chaiye,"Bache ka wajan badhane ke liye aapko unhe swasth aur poshtik khana dena chahiye. Yeh kuch khaas cheezein hain:
+
+1.Khichdi, dal-chawal, ya rajma dena chahiye kyunki yeh protein se bhare hote hain.
+2.Kele, aam, aur papita jaise masale hue phal dena chahiye jo sharir ko urja dete hain.
+3.Hari sabziyan jaise palak aur gajar dena chahiye jo iron aur vitamin se bharpoor hote hain.
+4.Doodh, dahi, aur paneer dena chahiye jo calcium aur protein ka achha strot hote hain.
+
+In cheezon se bache ka wajan badhne mein madad milegi.","Bachche ka wazan badhane ke liye ghar ka bana khana dein, jaise dal, khichdi, daliya, suji, sabzi, anda ya machhli, aur khane mein thoda ghee/tel mila sakte hain.   
+• 6 mahine se chhote bachche ko sirf maa ka doodh dein.  
+• 6 mahine ke baad maa ke doodh ke saath alag-alag ghar ke khane dein; Maggi, biscuit aur packet wale khane par bharosa na karein.   
+Bachcha kitne mahine ya saal ka hai?",3,5,5
+Tikkaran kyu jaruri hai,"Tikkaran yaani vaccination bachon ke liye bahut zaroori hai. Isse bacha bimariyon se bach jata hai aur uske sharir mein bimari se ladne ki taakat aati hai. Tikkaran se bacha polio, khasra (measles), kalee khansi, galghotoo (diphtheria), tetanus, TB, hepatitis B, pneumonia aur dast (rotavirus diarrhea) jaise khatarnak rog se surakshit rehta hai. Isliye bacche ka har tika samay par lagwana bahut zaroori hai, taki bacha hamesha tandurust rahe.","Tikkakaran bachche ko gambhir bimariyon se bachane ke liye zaruri hai.  
+Samay par saare tika lagne se bachche ko polio, TB aur doosri bimariyon se suraksha milti hai. Der ya tika na lagne par bimari ka khatra badh jata hai.   
+Sarkari swasthya kendra par bachchon aur garbhwati mahilaon ka tikkakaran muft hota hai. ",4,5,5
+Bche ko tika kab kab lgta hai,"Bache ko kuch zaroori tikkay alag-alag samay par lagte hain:
+
+1.BCG vaccine janm ke samay ya ek saal ke andar lagta hai.
+2.Hepatitis B ka tika janm ke 24 ghante ke andar lagana chahiye.
+3.Polio (OPV) ka tika janm par 6, 10, aur 14 hafte ke samay diya jata hai.
+4.Pentavalent vaccine bhi 6, 10, aur 14 hafte par diya jata hai.
+5.Khasra (measles) ka tika 9 se 12 mahine ke beech lagta hai.
+
+Yeh sab tikkay bachon ko kayi tarah ki bimariyon se bachate hain.","Bachche ko tika is tarah lagta hai:
+
+- Janm par: BCG, Hepatitis B aur polio ki 2 boond.
+- 6, 10 aur 14 hafte: polio, pentavalent aur rotavirus; IPV 6 aur 14 hafte.
+- 9–12 mahine: MR/measles, vitamin A aur kuch jagah JE.
+- 16–24 mahine: DPT booster, MR-2, polio booster aur vitamin A; 5–6 saal par DPT booster. 
+
+Tike sarkari aspataal ya Anganwadi par muft lagte hain. MCP card zaroor le jana. ",4,3,4
+Meri first pregnancy Hai to Mujhe didi ka injection kitne bar lagega,"Aapki first pregnancy me TT ka injection, yaani Tetanus Toxoid (TT) ka tika, do baar lagta hai. Pehla injection pregnancy pata chalne ke shuruat me lagta hai, aur doosri khurak 4-6 hafte baad di jaati hai. Agar aapne pichle 3 saal me TT ki do khurakein le li hain, toh aapko booster ki ek aur khurak di jaayegi.","Pehli pregnancy me tetanus ka injection aam taur par **2 baar** lagta hai.  
+- Pehla injection pregnancy pata chalne par  
+- Doosra injection pehle ke **4–6 hafte baad**  
+
+Yeh injection maa aur bachche ko tetanus se bachata hai aur sarkari health centre par muft milta hai. ",4,5,5
+Pregnancy mai khun ka check up Krna q zaruri hai,"Pregnancy me khun ka check-up karna zaruri hai kyunki isse aapki aur aapke baby ki sehat ka pata chalta hai. Blood test se anemia, infections aur doosri pareshaniyon ka pata lagaya ja sakta hai. Yeh check-up aapko sahi ilaj lene me madad karta hai, jaise iron aur folic acid, jo aapke baby ki vikas ke liye zaruri hain.","Pregnancy mein khun ka check-up isliye zaruri hai:
+
+• Khoon ki kami (anemia) pata chalti hai, jisse thakan, chakkar aur saans phoolna ho sakta hai.  
+• Khun ka group, sugar, infection, thyroid aur doosri pareshaniyon ka pata jalta hai.  
+• Khoon ki kami se bachcha kam wazan ka ya samay se pehle paida ho sakta hai, isliye samay par ilaaj zaruri hai.   
+• Garbhavastha mein shuru mein aur doctor ke kehne par dobara khun check karwana chahiye.",4,3,5
+Mujhe abhi 3 ra month chalu hai to mujhe kya kya check up karna jaruri hai,"Agar aapki pregnancy ke 3 mahine chalu ho gaye hain, toh aapko kuch zaruri check-ups karne chahiye:
+
+1.Apna vajan aur BP check karwayen, yeh aapki sehat aur baby ke vikas ke liye zaruri hota hai.
+2.Khoon ki jaanch mein hemoglobin ki matra dekhi jaati hai, taaki aapko anemia na ho.
+3.Peshab ki jaanch se chini aur protein ki matra ka pata lagta hai, jo pregnancy ke dauraan kaafi maayne rakhti hai.
+4.Sonography se baby ka vikas aur sthiti dekhi jaati hai, jisse doctor ko maloom padta hai ki sab kuch theek hai ya nahi.
+
+Yeh sab jaanchein ek swasth pregnancy ke liye zaruri hoti hain.","3re mahine me pehla garbh-janch zarur karwa lijiye, 12 hafte ke andar. Isme wazan, BP, peshab, khoon ka group, Rh, hemoglobin/CBC aur sugar ki jaanch hoti hai. 
+
+- HIV, VDRL, Hepatitis B-C aur thyroid ki jaanch doctor ke kehne par karwai ja sakti hai.  
+- 6–9 hafte me sonography se garbh ki umar aur dhadkan dekhi jati hai.   
+- Folic acid aur doctor ki likhi goliyaan lein; TT/TD tika bhi health worker se pooch kar lagwaen.",4,4,5
+bache ka wajan kitna hona chahiye,"Bache ka wajan unki umar ke hisaab se alag hota hai. 0 se 6 mahine ke bache ka wajan lagbhag 5-8 kg hona chahiye. 1 saal ke bache ka wajan 9-11 kg tak hona chahiye. 2 saal ke bache ka wajan 11-14 kg hona chahiye. Yeh ek lagbhag maap hai, har bache ka wajan thoda upar neeche ho sakta hai.
+Nasdeeki sarkari aspataal pe jaake bacche ka wajan zaroor check karvayein. Agar wajan kam nikle to turant doctor se salah lein.","Bachche ka wajan umar aur ladka/ladki ke hisaab se badalta hai. Aam taur par: janam par 3.2–3.35 kg, 6 mahine par 7.3–7.93 kg, 1 saal par 8.9–9.65 kg, 2 saal par 11.5–12.15 kg hota hai.    
+3 saal par lagbhag 13.9–14.34 kg aur 5 saal par 18.2–18.34 kg hota hai.  
+Aap bachche ki umar, ladka ya ladki, aur abhi ka wajan batayein, main bataungi ki wajan theek hai ya nahi.",4,5,5
+pregnancy me white discharge q aata hai,Mere paas iska uttar nahin hai. Kripya apne najdik ke health facility/doctor se sampark karein.,"Pregnancy me safed pani kyon aata hai, iski poori jaankari mere paas nahi hai.  
+Agar pani zyada ho, badbu/khujli ho, ya khoon, pet dard, bukhar ke saath aaye, to turant najdeek ke health centre ya doctor ko dikhayein.   
+Jagah ko saaf rakhein aur saaf, dheele kapde pehnein.",5,4,4
+hospital delivery ki kya tayyari hai,"Hospital delivery ki tayyari ke liye aapko kuch zaroori cheezein pehle se rakh leni chahiye:
+
+1.Ek jhola tayaar rakhein jismein zaroori kagaz (jaise Aadhaar card, ilaaj se jude kagaz), safai ka saman (jaise sabun, tauliya), aur kapde (maa aur navjat ke liye).
+2.Kisi apne ko saath le jaayein jo aapka mannobal badhaye aur sharirik roop se madad kare.
+3.Hospital ke kharche ke liye paise tayaar rakhein aur kisi apne ko khoon dene ke liye tayaar rakhein agar zarurat pade.
+4.Jab dard shuru ho ya koi dikkat lage, turant aspataal chale jaayein.","Hospital delivery ki taiyari pehle se kar lo:
+
+• Ek bag mein Aadhaar, maa-bachcha card, sabhi khoon aur ultrasound ki reports, sabun, tauliya, brush, maa aur bachche ke kapde rakho.   
+• Saath jaane ke liye bharosemand ghar ka vyakti chuno aur hospital tak pahunchne ka intezam rakho. Zarurat par 102/108 ambulance mil sakti hai.   
+• Dard shuru ho, paani nikle, khoon aaye ya bachche ki harkat kam ho to turant swasthya kendra se sampark karo.   
+• Sarkari aspataal mein delivery, jaanch, dawa aur ghar se aane-jaane ka kharcha yojana ke tahat muft mil sakta hai. ",3,3,5
+pregnancy me pet k nichle hisse me dard kyun hota hai,"Pregnancy ke dauraan agar pet ke niche dard ho, toh sabse pehle doctor ke paas jaana chahiye. Is dard ke kuch kaaran ho sakte hain:
+
+1.Jaise-jaise baccha pet mein bada hota hai, andar ke naadi-tanav kheenchte hain, jisse dard mehsoos hota hai.
+2.Garbh hone par sharir ke andar kayi tarah ke badlav hote hain, jisse dard ya jalan ho sakti hai.
+3.Gas ya pet saaf na hone se bhi dard ho sakta hai.
+
+Agar dard bahut ho ya ajeeb lage, toh turant doctor ki salah leni chahiye.","Pregnancy me nichle pet ka halka dard ho sakta hai, par tez ya lagatar dard ko nazarandaaz na karein.  
+Aaram karein aur bhaari saman na uthayein.   
+Agar khoon/paani aaye, bukhar, chakkar, behoshi, kamar me lagatar dard ya bachche ki harkat kam ho, turant health centre jayein.   
+Dard kab se hai aur pregnancy kitne mahine ki hai?",2,5,4
+acidity ho gayi h toh kya karna chahiye,"Agar aapko acidity ho gayi hai, toh aapko kuch baatein dhyan me rakhni chahiye:
+
+1.Din me baar-baar thoda-thoda khaa lein, taaki pet bhara rahe aur teekhaapan na ho.
+2.Garam paani ya jeera waala paani peene se aaram mil sakta hai.
+3.Bohot teekha aur tel wala khana na khayein, yeh acidity badha deta hai.
+4.Khaana khane ke turant baad na soyein, kam se kam 2 ghante rukkar soyein.","Acidity me thoda-thoda karke 4–5 baar khana khayein, bahut tel-masale aur junk food se bachein. Chai-coffee kam karein aur paani/fluids lete rahein.   
+Apni marzi se koi dawa na lein, khaaskar agar aap garbhwati hain.  
+Agar tez pet dard, ulti, chakkar ya acidity baar-baar ho, toh najdeeki doctor ya health centre me dikhayein.",3,3,4
+bacha kis month me movement karta hai,"Garbh ke 4-5 mahine ke aas paas bacha pet ke andar hilna-jhulna shuru karta hai. Pehle halka sa mehsoos hota hai, jaise koi andar se dheere se dhakka de raha ho. Jaise-jaise mahine badhte hain, bacha zyada zor se hilta hai aur yeh aapko achhe se mehsoos hota hai.","Mere paas is sawal ka sahi jawab dene layak jaankari nahi hai.  
+Aap apne najdeeki swasthya kendra ya doctor se pooch sakti hain.  
+Agar aap batayein ki pregnancy kitne hafte ki hai, to health worker aapko sahi jaankari de sakte hain.",0,5,5
+chakkar aa raha hai kya karu,"Agar aapko chakkar aa raha hai, toh yeh kuch kaaran se ho sakta hai:
+
+1.Khoon ki kami hone par chakkar aa sakta hai. Aapko iron aur folic acid ki davai ki zarurat ho sakti hai.
+2.Pani kam peene se bhi chakkar aata hai. Din bhar mein zyada pani peena chahiye.
+3.Agar aapka BP kam hai, toh bhi chakkar aa sakta hai.
+
+Agar chakkar baar-baar ho raha ho ya aapko aur lakshan dikh rahe ho, toh doctor se salah lena zaruri hai.","Chakkar aane par turant baith ya let jao aur aaram karo.  
+Agar aap garbhvati hain, tez chakkar, behoshi, bahut kamzori, sir dard ya saans phoolna ho to turant swasthya kendra jao.   
+Chakkar loha ki kami se bhi ho sakta hai, isliye hemoglobin ki jaanch karao.   
+Kya aap garbhvati hain?",3,5,3
+Caeser delivery k baad kya kha sakte hai or kya nahi kha sakte hai,"Caesarean ke baad aisa khana chahiye jo sharir ko taakat de aur asaani se pach jaye:
+
+1.Doodh, dahi, daal, anaj wali cheezein, hari sabziyaan jaise palak aur gajar, aur mausam ke phal jaise seb, santra, kele lena faydemand hai. Aisa kuch khayein jo pet mein aaram se pach jaye.
+2.Bahut teekha, chipchipa khana, bahar ka khana jaise chips, burger, thanda peene waali cheezein aur chai-coffee kam se kam lein.
+
+Yeh sab aapke jaldi theek hone aur acchi sehat ke liye zaruri hai.","Caesarean ke baad ghar ka taaza, saaf aur poshan wala khana khayein—dal, anaj, hari sabzi, mausami phal, doodh, anda ya machhli/chicken le sakti hain.   
+- Paani aur doosre taral mila kar din me 2 litre se zyada lein; kabz se bachne ke liye sabzi, dal aur anaj khayein.   
+- Bahut tel, cheeni, namak, packet wala khana, cold drink, sharab aur tambaaku se bachein.  
+- Khane ke saath ya turant baad chai-coffee na lein, khaaskar agar lohe ki goli chal rahi ho.   
+- “Garam-thanda” ke darr se kisi poshtik khane ko bina wajah band na karein.",4,5,4
+calcium ki dawai kab leni chahiye or kya isse iron wali dawai k sath le sakti hu?,"Calcium ki dawai aapko din mein do baar leni chahiye, ek subah ya dopahar ke khane ke baad aur doosri raat ke khane ke baad. Yeh maa aur bacche dono ke liye zaruri hoti hai.
+
+Lekin calcium ki dawai ko iron wali dawai ke saath nahi lena chahiye, kyunki calcium iron ko sharir mein achhe se milne nahi deta. Isliye, dono dawaiyaan alag-alag samay par lena behtar hai.","Calcium ki dawai subah aur shaam khana khane ke turant baad paani ke saath le sakti hain.  
+Loha-fo l i c acid wali dawai ke saath calcium ek saath na lein, dono ka asar kam ho sakta hai. Loha wali dawai khane ke 2 ghante baad lein aur calcium alag samay par lein.   
+Dawai doctor ya ANM ne jaise batayi hai, waise hi roz lein.",4,4,5
+kamar me dard hai kya karu,"Agar aapko kamar mein dard ho, toh sabse pehle doctor se salah lena zaruri hai.
+Iske alawa kuch baatein madad kar sakti hain:
+
+1.Aaram karein aur zyada bhaari kaam na karein.
+2.Kamar par garam paani ki patti ya kapda rakhne se dard mein rahat mil sakti hai.","Kamar dard me aaram karein, bhaari saman na uthayein aur zyada kaam na karein.  
+Agar aap garbhwati hain to karwat lekar, thoda ghutna modkar soyein.   
+Dard bahut tez ho, lagatar rahe, pet dard, khoon/paani aana, bukhar ya chakkar ho to turant najdeeki swasthya kendra jayein.   
+Aap garbhwati hain kya, aur dard kab se hai?",3,5,4
+Khoon badhane k liye kya khana zaruri hai,"Khoon badhane ke liye kuch khaas cheezein khana zaruri hai:
+
+1.Palak, methi, chana, daal, bajra, jowar jaise cheezein khayein.
+2.Narangi, amla, aur tamatar jaise phal sabziyaan bhi khayein, yeh sharir mein khoon banane waale padarth ko achhe se milne mein madad karte hain.
+3.Sukhe meve jaise khajoor, kishmish, anjeer lena bhi faydemand hai.
+4.Til aur kaddu ke beej jaise beejon ka thoda istamaal bhi achha hota hai.
+
+Yeh sab cheezein milkar aapke sharir mein khoon badhane mein madad karti hain.","Khoon badhane ke liye loha wali cheezein khayein:
+
+• Palak, methi aur doosri hari sabzi  
+• Dal, chana, rajma, ankurit anaj, til, moongfali aur sukhe meve  
+• Non-veg khate hain to anda, machhli aur maans  
+• Khane ke saath nimbu, santra, amla ya amrood lein. Khane ke turant pehle ya baad chai na piyein, kyunki isse loha kam milta hai. 
+
+Agar aap garbhvati hain, to doctor ki salah se loha-folic acid ki goli bhi zarur lein. ",4,3,5
+maa ko accha dudh ke liye karna hoga,"Maa ko accha doodh banane ke liye kuch khaane ki cheezein roz khana zaruri hai:
+
+1.Doodh, dahi aur paneer jaise cheezein khayein, yeh sharir ko taakat aur haddiyan majboot banate hain.
+2.Palak, methi aur sarson jaise hari sabziyaan roz khayein, yeh khoon banane mein madad karti hain.
+3.Mausam ke phal jaise narangi, amla aur amrood khayein, yeh sharir ko majboot banate hain aur khoon banane waale padarth ko achhe se milate hain.
+4.Daal, chana, ya agar mansahari hain to anda ya murgi bhi kabhi-kabhi le sakte hain, yeh maa aur bacche dono ke liye faydemand hai.
+5.Methi daana, saunf, til, jeera, dhaniya aur sahjan (drumstick) jaise padaarthon ka bhi upyog karna chahiye
+
+In sab cheezon se maa ka doodh accha banega aur baccha bhi swasth rahega.
+Agar maa ko phir bhi doodh kam aa raha ho, toh nasdiki Health Post ya Sarkari Aspataal zaroor jaayein.","Maa ka doodh achha aur zyada aane ke liye bachche ko jab-jab bhook lage, din-raat milaakar kam se kam 8–12 baar stanpan karayein. Bachche ko ek taraf se poora doodh peene dein, phir zarurat ho to doosri taraf lagayein. 
+
+Maa poshtik ghar ka khana khaye, 2 litre se zyada paani aur doosre taral le, aur aaram kare. Chhe mahine tak bachche ko sirf maa ka doodh dein, paani bhi nahi.  ",3,5,5
+pregnancy me mujhe konsi yojana ka labh milega,"Garbhavati hone par sarkar ki kuch madad mil sakti hai:
+
+1.Pradhan Mantri Matru Vandana Yojana: Jab aap pehli baar maa banti ho, toh sarkar ₹5000 deti hai. Yeh paisa do baar me aapke bank khate me aata hai. Isse aap bachche ke janm se pehle aur baad me thoda aaram kar sakti ho.
+2.Janani Suraksha Yojana: Agar aapke paas BPL (ration card) hai aur sarkari hospital me bachcha paida hota hai, toh gaon me ₹700 aur sheher me ₹600 milte hain.
+3.Janani Shishu Suraksha Karyakram: Isme garbhavati mahilao ko dawai, jaanch (jaise khoon aur sonography), hospital me delivery, hospital me 3 ya 7 din rehna, khana aur aane-jaane ka kharcha sab muft milta hai. Ek saal ke bacho ka bhi muft ilaj hota hai.
+
+Aapko in yojanaon ka labh lena hai toh najdeeki sarkari aspataal me sampark karna chahiye.","Aapko ye yojanaon ka labh mil sakta hai:
+
+• **Pradhan Mantri Matru Vandana Yojana:** pehle bachche par ₹5,000, aur doosra bachcha ladki ho to ₹6,000 tak mil sakte hain.  
+• **Janani Suraksha Yojana:** Maharashtra me BPL ya SC/ST mahila ko sarkari aspatal me delivery par ₹600–₹700 mil sakte hain.    
+• Sarkari aspatal me jaanch, dawa, khana, delivery aur aane-jaane ki suvidha muft mil sakti hai.   
+• Aadhaar, bank passbook, ration card aur MCP card lekar Anganwadi, ASHA ya ANM se naam darj karayein.",4,5,5
+pair me bohot soojan hai,"Pregnancy mein pair mein sujan hona aam baat hai.
+Agar sujan zyada ho ya aur dikkat ho, toh doctor se milna chahiye.
+Yeh sharir mein zyada paani jama hone, wajan badhne, ya khoon theek se na ghoomne ki wajah se ho sakta hai.
+
+Sujan kam karne ke liye:
+1.Pair upar rakhkar aaram karein.
+2.Din bhar mein zyada paani peeyein.
+3.Naram aur aaramdayak jootey pehnein.","Agar aap garbhvati hain, pair ki bahut zyada soojan ko nazarandaaz na karein. Yeh khatre ka sanket ho sakta hai, isliye aaj hi health centre ya doctor ko dikhayein, khaas kar agar chehre ya haath me bhi soojan, tez sir dard ya chakkar ho. 
+
+Abhi aaram karein, bhaari kaam na karein aur baayi taraf lethein. Kya aap garbhvati hain, aur soojan dono pairon me hai ya ek pair me?",3,5,5
+pregancny me konsi sabji khau or konsi sabji nahi,"Garbh ke dauraan kuch sabziyaan khana faayde ka kaam karti hain aur kuch se door rehna chahiye:
+
+1.Palak, methi, sarson, gajar, lauki aur kabhi-kabhi karela khayein, yeh sharir ko taakat dete hain aur khoon badhate hain.
+2.Bahut teekhi, chipchipi, kachi aur kaccha paka hua khana na khayein, yeh pet mein jalan aur dard kar sakta hai.
+
+Yeh sab maa aur bacche ki sehat ke liye zaruri hai.","Pregnancy me palak, methi, sarson jaise hari patte wali sabji, gajar, patta gobhi, bhindi, matar, sem aur aloo kha sakti ho.   
+- Har din alag-alag mausam ki sabji aur daal lo, isse loha aur folic acid milta hai.   
+- Koi khaas sabji mana nahi hai, galat baaton par bharosa na karo.   
+- Sabji achchhi tarah dhokar aur paka kar khao; basi, gandi ya bahut tel wali cheez kam lo. ",3,5,5
+pregancny me konsa fall khau or konsi nahi,"Garbh ke dauraan kuch phal khana maa aur bacche dono ke liye faydemand hota hai:
+
+1.Narangi, amla, amrood, kela, seb aur aam jaise phal khayein, yeh sharir ko taakat dete hain aur khoon banate hain.
+2.Bahut zyada kacche ya ajeeb se phal na khayein, yeh kabhi-kabhi nuksaan bhi kar sakte hain.
+
+Hamesha saaf aur ache se dhoye huye phal hi khayein, yeh maa aur bacche ki sehat ke liye zaruri hai.","Pregnancy me saaf aur taza phal zaroor khao—santra, amrood, nimbu, aamla, ananas aur mausam ke phal achhe hain. Ye loha sharir me lagne me bhi madad karte hain. 
+
+Kisi ek phal ko poori tarah mana nahi kiya gaya hai. Phal achhe se dhokar khao, aur kate ya gande phal se bacho. Bahut zyada meetha, packet wala ya dibbe ka phal-ras kam lo. ",4,5,4
+normal delivery k liye kya kare,"Dhyaan rahe: Har maa ki pregnancy alag hoti hai. Kabhi-kabhi doctor operation (cesarean) se delivery karne ki salah dete hain.
+
+Isliye kuch zaroori baatein dhyan mein rakhein:
+1.Niyamit roop se doctor ke paas jaakar check-up karwaayein.
+2.Roz poshtik khana khayein - jaise sabzi, daal, phal, doodh, anda, chana.
+3.Aaram bhi zaroori hai - samay par sona, khana aur aram karna maa aur bacche dono ke liye faydemand hota hai.","Normal delivery ki guarantee nahi hoti, par sehatmand taiyari se fayda hota hai.  
+• Samay par jaanch karaye, kam se kam 4 baar; loha, folic acid, calcium aur TT tika doctor ke kehne par lein.  
+• Poshtik khana, hari sabzi, daal, doodh/anda, phal khayein; bhaari kaam, tambaaku aur sharab se bachein.  
+• 39 hafte tak pregnancy poori hone dein, delivery ki jagah aur 102/108 ambulance pehle se tayyar rakhein.   
+• Khoon aaye, paani nikle, tez dard, sir dard ya bachche ki harkat kam ho to turant health centre jayein. ",3,4,4
+Abhi mujhe 1 month hua hai to mujhe khoon janch kab karni padegi,Garbhavastha ki pushti hote hi turant najdik ke sarkari hospital ya health centre me register karein. Registration ke baad aapki khoon ki jaanch aur anya routine tests suru kiye jaate hain.,"Aap 1 mahine ki garbhavati hain to abhi hi pehli jaanch karwa lijiye, 12 hafte ke andar. Isme khoon ki jaanch, loha ki kami, khoon ka group, sugar, HIV, hepatitis aur thyroid dekha ja sakta hai. 
+
+Apne najdeeki sarkari swasthya kendra ya ANM/ASHA se milkar garbhavastha ka panjikaran bhi kara lijiye. CBC jaanch shuru ke samay hoti hai, baad mein 14–27 aur 28–32 hafte par dobara ho sakti hai. ",5,5,5
+pregnancy ke 8 mahine me sex kar saktey hai kya,Mere paas iska uttar nahin hai. Kripya apne najdik ke health facility/doctor se sampark karein.,"Is baare mein main jaankari nahi de sakti.  
+Aap apne najdeeki doctor ya sehat kendra se poochhein.",5,5,
+Pregnant Mahila ke liye bike per baithana safe hai,Mere paas iska uttar nahin hai. Kripya apne najdik ke health facility/doctor se sampark karein.,"Pregnancy me bike par baithne ke baare me hamari jaankari me seedha niyam nahi hai.  
+Par girne ka khatra wali ya bahut thakaane wali cheezon se bachna chahiye, aur zyada mehnat nahi karni chahiye.   
+Isliye bike ki jagah surakshit sawari chunna behtar hai. Agar zaroori ho, to apne doctor se poochkar hi jaayen.  
+Pet dard, khoon ya paani aana, chakkar ya bachche ki harkat kam ho to turant swasthya kendra jaayen. ",2,3,2
+Best doctor Kaun Hai delivery ke liye,Delivery ke liye sarkari hospital aur health centre surakshit aur vishwasniya hote hain. Wahan trained doctors aur nurses upalabdh hote hain.,"Delivery ke liye **gynaecologist/mahila rog doctor** aur aisa sarkari aspataal ya maternity home chunen jahan normal aur operation dono delivery ki suvidha ho. 
+
+- Apni pregnancy ki jaanch niyamit karvate rahen aur doctor ki salah maanें.
+- Aspataal ghar ke paas ho aur zarurat par jaldi pahunch sakein.
+- Sarkari aspataal mein jaanch, dawa, delivery aur ambulance ki suvidha muft mil sakti hai. 
+- Delivery shuru ho ya khoon, paani, tez dard ya bachche ki harkat kam ho, turant health centre जाएं. 102/108 par ambulance mil sakti hai. ",4,3,4
+Normal Delivery ke liye Bacchedani ka muh  khulane ke liye  kya karana padata hai,Mere paas iska uttar nahin hai. Kripya apne najdik ke health facility/doctor se sampark karein.,"Bacchedani ka muh kholne ke liye ghar par koi dawa ya gharelu upay khud se na karein.  
+Labor shuru ho ya koi takleef ho, turant najdeeki health centre ya doctor se sampark karein, der na karein.  
+Zarurat par sarkari ambulance 102/108 mil sakti hai. ",3,1,2
+Mera babu kamzor h use kanch m rakha h,Kamzor ya chhote bacchon ko aksar incubator (kanch ke box) me rakha jaata hai taaki unki dekhbhaal surakshit tarike se ho sake. Is dauraan maa ko breastfeeding continue karna chahiye.,"Babu kamzor ya kam wazan ka ho to use garam rakhne ke liye incubator (kaanch ki machine) mein rakhte hain.  
+Doctor ya nurse ki salah se hi use chhooyen ya bahar nikalen. Babu theek hone par maa se chipka kar Kangaroo care shuru karayi ja sakti hai.   
+Agar babu doodh nahi pee raha, to apna nikala hua doodh nurse ki salah se chammach ya katori se diya ja sakta hai; feeding bottle na den.   
+Tez saans, doodh na peena, badan thanda ya bahut sust lage to turant nurse ko batayen. ",5,5,3
+Kon sa formula milk best hota h bachhe k liye,Janm se 6 mahine tak sirf maa ka doodh sabse accha aur surakshit hai. Formula milk ki jagah maa ke doodh ko hi dena chahiye.,"6 mahine tak bachche ke liye maa ka doodh hi sabse achha hai; paani bhi alag se nahi dena hota.   
+Agar maa ka doodh na mil pa raha ho, to formula doodh ka brand bina doctor ya swasthya karyakarta ki salah ke na chunein.  
+Doodh banate samay packet par likhi matra hi rakhein aur saaf katori-chammach se dein; feeding bottle se bachche ko dast aur infection ho sakta hai. ",5,4,2
+Sonography report mein XY likha hai toh kya ladka paida hoga,Mere paas iska uttar nahin hai. Kripya apne najdik ke health facility/doctor se sampark karein.,"Is baare mein main jaankari nahi de sakti. Sonography report mein “XY” likha ho, phir bhi bachcha ladka hoga ya nahi batana kanoon ke khilaaf hai.  
+Report samajhne ke liye apne najdeeki doctor ya swasthya kendra se baat karein.",5,5,
+Agar bacche ko dudh kam hojaye to kiya kare,"Jitna zyada baby dudh chusega, utna hi zyada dudh banega. Din raat jab baby mange tab pilaiye.
+Baby ko apne se chipka kar rakhne se dudh nikalna easy hota hai.
+Agar baby sahi tarah se nipple pakdega to dudh achhe se niklega.
+Pani, doodh, soup, fruit aur green sabji khana zaroori hai.
+Thakan aur tension se bhi dudh kam ho jata hai. Thoda relax karo.","Agar maa ka dudh kam lag raha ho, to bachche ko din-raat jab bhi bhook lage, kam se kam 8–12 baar dudh pilayein.   
+Bachcha breast ka kaala hissa bhi muh me le, sirf nipple nahi; isse dudh achchhe se milta hai.  
+6 mahine tak pani ya koi aur cheez na dein. Bachcha 24 ghante me 6 se zyada baar peshab kare aur wazan badhe, to dudh poora mil raha hai.   
+Agar bachcha kamzor ho ya dudh na pee pa raha ho, dudh nikaal kar saaf katori-chammach se dein aur swasthya karyakarta ko dikhayein. ",3,5,5
+Meri ladki dhai sal ki hai usko Paisa nahin mila hai ab,"Kya main jaan sakti hoon, ki aap kaunse yojana ke bare me pucch rahe hain?","Agar aap **Pradhan Mantri Matru Vandana Yojana** ke paise ki baat kar rahi hain, to dusri ladki ke liye ₹6000 tab milte hain jab janam darj ho aur 14 hafte ke teeke lag chuke hon.   
+Dhai saal ki umar par paisa na aane ka karan jaanne ke liye Anganwadi ya ASHA didi se form aur bank mein Aadhaar judne ki jaanch karvaaiye.  
+Aap bataiye, ye pehli ladki hai ya dusri, aur kis yojana ka paisa nahi mila?",5,5,5
+9 month shuru hone wala hai mera kiya IGM hospital jana jaroori hai abhi checkup ke liye,Haan. Apko doctor se jaanch kara leni chahiye.,"Haan, 9ve mahine mein checkup zaroor karwana chahiye. 36–38 hafte par jaanch hoti hai, jisme maa aur bachche ka wazan, BP, jaanch aur bachche ki position dekhi jaati hai.   
+IGM hospital mein aapki jaanch hoti hai to wahan ja sakti hain, ya apne doctor/ANM ki batayi jagah par jaayen. MCP card aur purani reports le jana.  
+Khoon, pani, tez pet dard, bahut sir dard, bachche ki harkat kam hona ya bukhar ho to turant health centre jaayen.",5,5,4
+8 months pregnancy diet chart do,"Kya main aapki height, weight aur Hb (hemoglobin) level jaan sakti hoon? Aapka diet chart uske hisaab se banega.","8ve mahine me din bhar 3 khane aur 2–3 chhote naste lein.   
+• Subah: doodh; nashta: poha/upma ya 2 roti, dal aur sabzi; 1 phal.  
+• Dopahar: chawal ya 2–3 roti, dal/chana, hari sabzi, dahi; shaam ko moongfali/nuts aur doodh.  
+• Raat: roti/chawal, dal, sabzi; anda ya machhli kha sakti hain. Guava, nimbu, santra jaise phal aur hari sabzi loha ke liye achhe hain.   
+• Din me 2 litre se zyada paani piyen; chai-koffee khane ke turant pehle ya baad na lein, kaccha anda aur bina ubaala doodh na lein. ",2,3,5
+Mera bp 180 bad gaya hai admit ke liye bola hai,Aaram se baithe rahiye. Jaldi se jaldi hospital pohochne ki koshish kijiye. Doctor ki salah se apna ilaaj karana jaruri hai.,"BP 180 bahut zyada hai. Doctor ne admit hone ko bola hai to der na karein, abhi aspataal jaiye. Akeli na jaiye, kisi ko saath le jaiye; zarurat ho to 102/108 ambulance bulaiye. 
+
+Tez sir dard, chakkar, chehre/haath-pair me sujan, behoshi, pet me tez dard ya bachche ki harkat kam ho to turant doctor ko batayein. Apni marzi se koi dawa na lein. ",4,3,2
+Mera 15 January ko date aaya tha uske bad se kitne mahine hue hain,Mere paas iska uttar nahin hai. Kripya apne najdik ke health facility/doctor se sampark karein.,"15 January se mahina aise gina jata hai:
+
+• 15 February = 1 mahina  
+• 15 March = 2 mahine  
+• 15 April = 3 mahine  
+
+Aap 15 January kis saal ki baat kar rahi hain? Aaj ki tareekh batayengi to main bilkul sahi mahine bata dungi.",1,1,
+Chauthe mahine hai mujhe mere fever hai to tt  injection liye sakte kya phone wale didi,Mere paas iska uttar nahin hai. Kripya apne najdik ke health facility/doctor se sampark karein.,"Haan, pregnancy mein TT tika surakshit hai aur maa-bachche ko tetanus se bachata hai. Chauthe mahine mein bhi lag sakta hai; pehla dose jaldi, doosra 4–6 hafte baad diya jata hai.   
+Lekin bukhar ya thand lagna pregnancy mein dhyan dene wali baat hai, isliye tika lagwane se pehle aaj hi health centre/doctor ko dikhaye.  
+Aapne pehle TT ka dose liya hai kya?",1,4,4
+Mere pao me bhot dardr rhta hai,Paao me dard hone ke bahut wajah ho sakte hai. Kripaya aap nazdiki doctor se sampark kare.,"Agar aap garbhvati hain, to paon ke dard ke saath sujan ho to ise nazarandaaz na karein. Haath/chehre ki sujan, tez sir dard, chakkar ya bahut kamzori ho to turant doctor ya najdeeki swasthya kendra se jaankari lein.   
+Abhi bhaari kaam na karein, aaram karein aur pair upar rakhkar baithen. Kya aap garbhvati hain, aur paon me sujan bhi hai?",3,4,4
